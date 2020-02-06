@@ -1,7 +1,6 @@
 package interfaces
 
 import model.Flood
-import model.IrishFlood
 
 /**
  * Interface to provide an adaptor that maps a generic instance of Flood class to another one that conforms Flood schema
